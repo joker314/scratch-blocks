@@ -277,6 +277,7 @@ Blockly.Msg.SOUND_EFFECTS_PAN = 'pan left/right';
 Blockly.Msg.SOUND_CHANGEVOLUMEBY = 'change volume by %1';
 Blockly.Msg.SOUND_SETVOLUMETO = 'set volume to %1%';
 Blockly.Msg.SOUND_VOLUME = 'volume';
+Blockly.Msg.SOUND_RECORD = 'record...';
 
 // Category labels
 Blockly.Msg.CATEGORY_MOTION = 'Motion';
@@ -340,6 +341,8 @@ Blockly.Msg.LIST_ALREADY_EXISTS = 'A list named "%1" already exists.';
 Blockly.Msg.RENAME_LIST_TITLE = 'Rename all "%1" lists to:';
 Blockly.Msg.RENAME_LIST_MODAL_TITLE = 'Rename List';
 Blockly.Msg.DEFAULT_LIST_ITEM = 'thing';
+Blockly.Msg.DELETE_LIST = 'Delete the "%1" list';
+Blockly.Msg.RENAME_LIST = 'Rename list';
 
 // Broadcast Messages
 // @todo Remove these once fully managed by Scratch VM / Scratch GUI
